@@ -1,0 +1,6 @@
+
+.bash*
+.ssh
+.pki
+.m2
+*.tar.gz
